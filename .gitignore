@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+
+# VS Code settings (optional)
+.vscode/
+
+# Python environment files
+.Python
+*.env
+
+# Mac system files
+.DS_Store
+
+# SQL client artifacts 
+*.log
+*.sql~
+
+# Tableau cache 
+*.twb~
